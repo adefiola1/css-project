@@ -1,0 +1,44 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+.header{
+    background-color: white;
+    padding: 40px;
+    text-align:left ;
+}
+.header h2 { font-size: 25px;
+    font-weight: bold;
+
+}
+.header p{
+    font-size: 15px;
+    margin: 5px 0;
+    color: black;
+}
+.content{
+    background-color: gray;
+    padding: 50px;
+    display: flex;
+    justify-content:center left;
+    padding-left: 270px;
+    align-items: center;
+}
+.head{
+    background-color: rgb(252, 192, 0);
+    padding: 10px;
+    font-weight: bold;
+    display: inline-block;
+    position: absolute;
+    top: -15px;
+    box-shadow: 0px 2px 5px;
+}
+.card {
+    background-color: white;
+    padding: 20px;
+    width: 600px;
+    box-shadow: 5px 3px 5px rgba(0, 0, 0, 0.2);
+    position: relative;
+}
