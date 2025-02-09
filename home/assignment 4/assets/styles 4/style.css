@@ -41,6 +41,7 @@
   label {
  font-size: 14px;
  margin-bottom: 5px;
+ font-weight: bold;
   }
   input, select{
     padding: 10px;
